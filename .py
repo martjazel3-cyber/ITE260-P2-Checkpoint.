@@ -19,10 +19,11 @@ else:
          print("Average:", average)
 
          if average >= 90:
-              print("Status: Very good")
+             print("Status: Very good")
          elif average >= 85:
              print("Status: Good")
          elif average >= 75:
              print("Status: Passed")
          else:
              print("Satatus: Failed")
+             
